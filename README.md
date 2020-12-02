@@ -3,4 +3,4 @@
 
 ## Preview
 
-![](https://github.com/songlin81/PY-Reports/blob/master/output/screen.png)
+![](https://github.com/songlin81/PYReport/blob/main/output/screen.png)
