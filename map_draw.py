@@ -30,8 +30,7 @@ class Draw_map():
             {"max": 49, "min": 10, "label": "10-49", "color": self.get_colour(255,202,179)},
             {"max": 9, "min": 1, "label": "1-9", "color": self.get_colour(255,228,217)},
             {"max": 0, "min": 0, "label": "0", "color": self.get_colour(255,255,255)},
-              ]
-
+        ]
 
         c = (
             # 设置地图大小
@@ -69,5 +68,5 @@ class Draw_map():
                                                   pieces=pieces,
                                                   ),
             )
-                .render("./map/中国疫情地图.html")
+            .render("./map/中国疫情地图.html")
         )
